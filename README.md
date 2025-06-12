@@ -1,12 +1,12 @@
 # data_analysis_products.best_selling.comparison
 
-In this project i used python to clean data and then i appended the data via jupyter notebook into sql database and analysed the data.
+In this project, I utilized Python for data cleaning and transformation, and integrated the cleaned data into a SQL database using Jupyter Notebook. Once the data pipeline was established, I performed in-depth analysis to extract actionable insights.
 
+Key problems solved:
 
-Following are some problems that were solved -
+Identified the top 10 highest revenue-generating products.
 
-1. Find top 10 highest revenue generating products
+Determined the top 5 best-selling products in each region.
 
-2. Find top 5 highest selling product in each region
+Conducted a month-over-month revenue growth analysis, comparing performance in 2022 vs 2023 (e.g., January 2022 vs January 2023).
 
-3. Find month over month growth comparison for 2022 and 2023 revenue. Example - Jan 2022 vs Jan 2023
