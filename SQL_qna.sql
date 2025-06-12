@@ -25,7 +25,7 @@ SELECT * FROM df_orders
 limit 1;
 
 
-#Questions & Answers
+#Problems & Solutions
 
 #1 find top 10 highest revenue generating products
 
