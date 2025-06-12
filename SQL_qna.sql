@@ -46,7 +46,7 @@ SELECT *,
 FROM cte) A
 WHERE RN <=5;
 
-#3 find month over month growth comparison for 2022 and 2023 sales example : jan 2022 vs jan 2023
+#3 find month over month growth comparison for 2022 and 2023 revenue example : jan 2022 vs jan 2023
 
 with cte as (
 select year(order_date) as order_year,month(order_date) as order_month,
